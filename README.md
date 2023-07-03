@@ -2,4 +2,5 @@
 * [Introduction](#intro)
 * Project Description
 * Dependencies
-<a name = intro> #Introduction </a>
+<a name = intro> Introduction </a>
+# Introduction
