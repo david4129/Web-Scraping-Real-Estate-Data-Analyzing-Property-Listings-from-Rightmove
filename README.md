@@ -4,7 +4,7 @@
 * [Dependencies](#depd)
 <a name = intro>  </a>
 # Introduction
-Welcome to the Web Scraping Real Estate Data project! This is a Python-based web scraping project that extracts real estate property listings from the popular website Rightmove. The purpose of this project is to collect valuable information about various properties listed for sale in London, such as the number of bedrooms and bathrooms, property descriptions, property types, locations, agents, listing sources, and listing URLs.
+Welcome to the Web Scraping Real Estate Data project. This is a Python-based web scraping project that extracts real estate property listings from the popular website Rightmove. The purpose of this project is to collect valuable information about various properties listed for sale in London, such as the number of bedrooms and bathrooms, property descriptions, property types, locations, agents, listing sources, and listing URLs.
 
 <a name = DESCR> </a>
 # Project Description
